@@ -1,6 +1,6 @@
 # MHP
 
-I implemented Multi-dimensional Hawkes Processes for the recommendation system. These experiments are conducted on the Amazon dataset.
+This is the official implementation of the paper [Self-organized Hawkes Processes](https://link.springer.com/chapter/10.1007/978-3-030-93049-3_12). We implemented Multi-dimensional Hawkes Processes for the recommendation system. These experiments are conducted on the Amazon dataset.
 
 ## Usage 
 
