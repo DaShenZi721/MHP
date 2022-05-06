@@ -345,7 +345,7 @@ def main(args):
 def main2(args):
     np.set_printoptions(threshold=np.inf)
 
-    data_path = '../../Data/'
+    data_path = './dataset/'
     with open(data_path + args.dataset + '.pickle', 'rb') as f:
         dataset = pickle.load(f)
         user_size, item_size = dataset['user_size'], dataset['item_size']
