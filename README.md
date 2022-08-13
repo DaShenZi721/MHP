@@ -8,5 +8,4 @@ You could use it as follows. The dataset_name can be `preprocessed2_ratings_Amaz
 
 ```
 python MHP.py --dataset dataset_name
-
 ```
