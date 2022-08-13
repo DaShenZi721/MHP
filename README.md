@@ -10,3 +10,4 @@ You could use it as follows. The dataset_name can be `preprocessed2_ratings_Amaz
 python MHP.py --dataset dataset_name
 
 ```
+![image](https://drive.google.com/uc?export=view&id=1-aQtGs8IZQNIb51JluDE7AYjgU71sJg-)
